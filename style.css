@@ -41,13 +41,13 @@
         header a {
             text-decoration: none;
             color: peru;
+            border: 3px solid white;
+            border-radius: 10px;
+            background-color: white;
         }
         header a, img {
             margin: 15px;
             padding: 10px;
-            border: 3px solid white;
-            border-radius: 10px;
-            background-color: white;
         }
         header {
             margin: 15px;
