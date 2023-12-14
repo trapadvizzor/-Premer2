@@ -68,3 +68,7 @@
         main {
             padding: 20px;
         }
+        footer {
+            text-decoration: none;
+            color: white; 
+        }
