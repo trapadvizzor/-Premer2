@@ -1,0 +1,23 @@
+<?xml version=«1.0» encoding=«utf-8»?>
+
+<jnlp spec=«0.2 1.0»
+	codebase=«http://localhost:7123/»
+	href=«BeatBoxApp.jnlp»>
+
+<information>
+	<title> trapadvizzor app </title>
+	<vendor> Wickedly Smart </vendor>
+	<homepage href=«index.html»/>
+	<description> Head first WebStart demo </description>
+	<icon href="https://drive.google.com/uc?export=view&id=1WmtX2h9qGKWMmhXx2fRX2QuIURaAYmgX"/>
+	<offline-allowed/>
+</information>
+
+<resources>
+	<j2se version=«1.3+»/>
+	<jar href=«BeatBoxAppChat.jar»/>
+</resources>
+
+<application-desc main-class=«BeatBoxAppChat»/>
+
+</jnlp>
