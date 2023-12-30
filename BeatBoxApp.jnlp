@@ -1,7 +1,7 @@
 <?xml version=«1.0» encoding=«utf-8»?>
 
 <jnlp spec=«0.2 1.0»
-	codebase=«http://localhost:7123/»
+	codebase=«http://localhost:7124/»
 	href=«BeatBoxApp.jnlp»>
 
 <information>
